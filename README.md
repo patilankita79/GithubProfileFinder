@@ -99,3 +99,11 @@ Live Demo: https://githubfinder-5c0d4.firebaseapp.com/
 
 If you download this application or clone this repository, do not forget to add your own client secret id and client secret key
    
+<hr>
+
+## References
+
+- https://github.com/settings/applications/new
+- https://developer.github.com/v3/
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/UTC
+- https://bootswatch.com/litera/
